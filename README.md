@@ -1,6 +1,6 @@
 # React Introduction
 
-Followed along to a tutorial for React
+Learning React by following a tutorial
 
 ```
 > npm install
